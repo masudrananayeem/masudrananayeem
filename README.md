@@ -1,41 +1,52 @@
 <h1 align="center">Hi 👋, I'm Masud Rana Nayeem</h1>
-<h3 align="center">💻 Aspiring Web Developer | 🚀 Programmer | 🌟 Tech Enthusiast</h3>
+
+<h3 align="center">
+💻 Aspiring Web Developer | 🚀 Programmer | 🌟 Tech Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yourlinkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/yourprofile">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ## 👩‍💻 About Me
 
-✨ Passionate about creating web experiences that are both beautiful and functional.  
-🚀 My journey in web development started with curiosity and is growing into a mission to build impactful digital solutions.
+✨ Passionate about creating beautiful and functional web experiences.  
+🚀 Started my GitHub journey in **2020** and continuously learning modern technologies.
 
-### 🌱 What I'm Currently Up To
+### 🌱 Currently Working On
 
-- 🎯 Building responsive web projects
-- 📚 Mastering JavaScript frameworks
-- 🤝 Looking for collaboration opportunities
-- 🎯 Goal: Becoming a skilled Full-Stack Developer
+- 🎯 Responsive Web Development
+- 📚 JavaScript & React
+- 🤝 Open Source Collaboration
+- ⚡ Full-Stack Development Journey
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,github,vscode,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,mongodb,github,vscode" />
 
 </p>
 
@@ -43,53 +54,71 @@
 
 ## 🚀 Current Focus
 
-✅ Building responsive websites  
-✅ Improving JavaScript skills  
-✅ Learning modern frontend frameworks  
-✅ Exploring backend development  
+✔️ Building modern responsive websites  
+✔️ Improving frontend development skills  
+✔️ Exploring backend technologies  
+✔️ Learning scalable web applications  
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌐 Portfolio Website | Personal portfolio showcasing my work |
+| 🚀 Project | 📖 Description |
+|------------|----------------|
+| 🌐 Portfolio Website | Personal portfolio showcasing projects and skills |
 | 🤝 SkillSwap Project | Collaborative learning platform |
-| 🍵 Tea House UI | Modern tea shop website design |
+| 🍵 Tea House UI | Modern tea shop landing page design |
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Journey Since 2020
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="180em"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 </p>
 
----
-
-## 📫 Connect With Me
-
 <p align="center">
-  <a href="https://facebook.com/yourprofile">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
 
-  <a href="https://instagram.com/yourprofile">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
 
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! Feel free to connect with me. ⭐</h3>
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/yourprofile">
+<img src="https://img.shields.io/badge/Instagram-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yourlinkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/yourprofile">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+<i>"Code. Learn. Build. Repeat."</i>
+</p>

@@ -141,7 +141,6 @@ I am a passionate **Frontend Developer** with over **5 years of experience** cra
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
-
 ---
 
 <p align="center">

@@ -2,12 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=2D9C7C&center=true&vCenter=true&width=600&lines=Masud+Rana+Nayeem" alt="Typing SVG" />
 </h1>
 
+<div align="center">
 ### 💻 Aspiring Web Developer | 🚀 Programmer | 🌟 Tech Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-SultanaBristy226-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SultanaBristy226)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultana_Bristy-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultana-bristy/)
 [![Email](https://img.shields.io/badge/Email-bristysultana4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bristysultana4@gmail.com)
 
+</div>
 ---
 
 

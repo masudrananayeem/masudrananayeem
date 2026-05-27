@@ -9,7 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-masudrananayeem-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/masudrananayeem)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Masud_Rana_Nayeem-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masudrananayeem999)
-[![Email](https://img.shields.io/badge/Email-masudrananayeem86@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:masudrananayeem86@gmail.com)
+[![Email](https://img.shields.io/badge/Email-masudrananayeem86@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](masudrananayeem86@gmail.com)
 
 </div>
 

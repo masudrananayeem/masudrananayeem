@@ -2,41 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=2D9C7C&center=true&vCenter=true&width=600&lines=Masud+Rana+Nayeem" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> 
-  Frontend Developer • Programmer • Tech Enthusiast
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-</h3>
+### 💻 Aspiring Web Developer | 🚀 Programmer | 🌟 Tech Enthusiast
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-5+_Years-2D9C7C?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Active-2D9C7C?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-
-<p align="center">
-  <i>🚀 Building clean, responsive, and user-focused web experiences since 2020</i>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/masudrananayeem">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/masudrananayeem">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:masudrananayeem@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/masudrananayeem">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/masudrananayeem">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-SultanaBristy226-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SultanaBristy226)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultana_Bristy-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultana-bristy/)
+[![Email](https://img.shields.io/badge/Email-bristysultana4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bristysultana4@gmail.com)
 
 ---
 

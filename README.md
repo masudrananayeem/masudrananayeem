@@ -116,3 +116,9 @@ My journey in software development began with curiosity and has evolved into a c
 <p align="center">
   <i>"Turning ideas into interactive digital experiences."</i>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>

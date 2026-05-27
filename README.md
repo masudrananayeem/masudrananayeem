@@ -8,6 +8,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-5+_Years-2D9C7C?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active-2D9C7C?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 
 <p align="center">

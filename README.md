@@ -150,10 +150,6 @@ I am a passionate **Frontend Developer** with over **5 years of experience** cra
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
-<p align="center">
   <i>"Turning ideas into interactive digital experiences — one line of code at a time."</i>
 </p>
 

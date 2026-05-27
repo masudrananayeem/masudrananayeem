@@ -118,13 +118,6 @@ I am a passionate **Frontend Developer** with over **5 years of experience** cra
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masudrananayeem&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
 
 ## 📈 Activity Graph
 

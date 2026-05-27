@@ -4,7 +4,7 @@
 
 <div align="center">
 ### 💻 Aspiring Web Developer | 🚀 Programmer | 🌟 Tech Enthusiast
-<br>
+</br>
 [![GitHub](https://img.shields.io/badge/GitHub-SultanaBristy226-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SultanaBristy226)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultana_Bristy-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultana-bristy/)
 [![Email](https://img.shields.io/badge/Email-bristysultana4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bristysultana4@gmail.com)

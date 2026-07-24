@@ -1,146 +1,165 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=2D9C7C&center=true&vCenter=true&width=600&lines=Masud+Rana+Nayeem" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  
-### 💻 Aspiring Web Developer | 🚀 Programmer | 🌟 Tech Enthusiast
-<br></br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-masudrananayeem-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/masudrananayeem)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Masud_Rana_Nayeem-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masudrananayeem999)
-[![Email](https://img.shields.io/badge/Email-masudrananayeem86@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:masudrananayeem86@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=%24+whoami;Masud+Rana+Nayeem;%24+cat+role.txt;Frontend+Developer+%40+React+%2F+MERN;%24+_" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/status-online-00D9FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/uptime-5+_years-00D9FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/build-passing-00D9FF?style=flat-square&labelColor=0D1117" />
+
+<br/><br/>
+
+<a href="https://github.com/masudrananayeem"><img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/masudrananayeem999"><img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
+<a href="mailto:masudrananayeem86@gmail.com"><img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
 
 </div>
 
+<br/>
 
+```bash
+> cat about_me.md
+```
 
-## 👩‍💻 About Me
+I'm a **Frontend Developer** with **5+ years** of experience building fast, responsive, and user-focused web apps. I like clean code, cleaner UI, and solving hard problems with simple solutions.
 
-I am a passionate **Frontend Developer** with over **5 years of experience** crafting modern, responsive, and user-friendly web applications. My journey in software development began with curiosity and has evolved into a continuous pursuit of learning and innovation.
+```yaml
+current_focus:  Advanced React patterns, Backend (Node.js)
+interested_in:  JavaScript, Scalable apps, UI/UX
+goal_2025:      Full-Stack Developer
+status:         Open to collaboration
+```
 
-- 🌱 **Currently exploring:** Advanced React patterns & Backend technologies
-- 💡 **Interested in:** Modern JavaScript, Scalable apps, and UI/UX design
-- 🤝 **Open to:** Collaborations on innovative and impactful projects
-- 🎯 **2025 Goal:** Become a Professional Full-Stack Developer
-- ⚡ **Fun fact:** I love solving coding challenges and contributing to open source
+<br/>
 
----
+```bash
+> ls tech_stack/
+```
 
-## 🛠️ Technical Skills
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,tailwind,bootstrap,mongodb,git,github,vscode,idea" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,mongodb,java,git,github,vscode&theme=dark" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Programming-Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styling-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-</p>
+</div>
 
----
+<br/>
 
-## 🚀 Current Focus
+```bash
+> ls projects/ --details
+```
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td align="center">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><br/>
-  <b>React Mastery</b>
-</td>
-<td align="center">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br/>
-  <b>JavaScript Deep Dive</b>
-</td>
-<td align="center">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><br/>
-  <b>Backend (Node.js)</b>
-</td>
-<td align="center">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><br/>
-  <b>MongoDB & APIs</b>
-</td>
+  <td width="50%" valign="top">
+
+  **🌐 portfolio-website**
+  ```
+  stack: React, Tailwind
+  desc:  Personal portfolio showcasing
+         my projects and skills.
+  ```
+  </td>
+  <td width="50%" valign="top">
+
+  **🤝 skillswap-platform**
+  ```
+  stack: MERN, Socket.io
+  desc:  Real-time collaborative
+         learning platform.
+  ```
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  **🍵 tea-house-ui**
+  ```
+  stack: HTML, CSS, JS
+  desc:  Modern landing page design
+         for a tea shop brand.
+  ```
+  </td>
+  <td width="50%" valign="top">
+
+  **📱 social-dashboard**
+  ```
+  stack: React, Chart.js
+  desc:  Analytics dashboard for
+         social media managers.
+  ```
+  </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📌 Featured Projects
+```bash
+> ./run_stats.sh
+```
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| 🌐 **Portfolio Website** | `React` `Tailwind` | A personal portfolio showcasing projects and skills |
-| 🤝 **SkillSwap Platform** | `MERN` `Socket.io` | Collaborative learning platform with real-time chat |
-| 🍵 **Tea House UI** | `HTML` `CSS` `JS` | Modern and elegant tea shop landing page design |
-| 📱 **Social Dashboard** | `React` `Chart.js` | Analytics dashboard for social media managers |
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=masudrananayeem&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E&border_color=00D9FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrananayeem&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&border_color=00D9FF" />
 
-## 📊 GitHub Analytics
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=masudrananayeem&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border=00D9FF" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masudrananayeem&theme=github_dark" />
-</p>
+</div>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=masudrananayeem&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2D9C7C&icon_color=2D9C7C"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrananayeem&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2D9C7C"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masudrananayeem&theme=github-dark&hide_border=true&background=0D1117&ring=2D9C7C&fire=2D9C7C&currStreakLabel=2D9C7C" />
-</p>
+```bash
+> ./plot_activity.sh --last 30d
+```
 
----
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=masudrananayeem&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" />
 
-## 📈 Activity Graph
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masudrananayeem&theme=github-dark&bg_color=0D1117&color=2D9C7C&line=2D9C7C&point=FFFFFF&hide_border=true" />
-</p>
+<br/>
 
----
+```bash
+> ./contribution_snake.sh
+```
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/masudrananayeem999/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/mrn.nayeem">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/mrn.nayeem.1">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="mailto:masudrananayeem86@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-<p align="center">
-  <i>"Turning ideas into interactive digital experiences — one line of code at a time."</i>
-</p>
+</div>
 
----
+<br/>
 
-## 🐍 Contribution Snake Game
+```bash
+> cat connect.txt
+```
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
----
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masudrananayeem&label=Profile%20Views&color=2D9C7C&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/masudrananayeem?label=Followers&style=flat-square&color=2D9C7C" />
-  <img src="https://img.shields.io/github/stars/masudrananayeem?label=Total%20Stars&style=flat-square&color=2D9C7C" />
-</p>
+<a href="https://www.linkedin.com/in/masudrananayeem999/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/></a>
+<a href="https://www.instagram.com/mrn.nayeem"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00D9FF"/></a>
+<a href="https://www.facebook.com/mrn.nayeem.1"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=00D9FF"/></a>
+<a href="mailto:masudrananayeem86@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=masudrananayeem&label=Profile+Views&color=00D9FF&style=for-the-badge" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+"Turning ideas into interactive digital experiences — one line of code at a time."
+```
+
+</div>

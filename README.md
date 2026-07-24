@@ -11,13 +11,15 @@
 <br><br>
 
 <a href="https://github.com/masudrananayeem">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img width="45px" src="https://img.shields.io/static/v1?label=&message=&color=0D1117&style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/masudrananayeem999">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img width="45px" src="https://img.shields.io/static/v1?label=&message=&color=0D1117&style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
+&nbsp;
 <a href="mailto:masudrananayeem86@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img width="45px" src="https://img.shields.io/static/v1?label=&message=&color=0D1117&style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
 </a>
 
 </div>
@@ -97,7 +99,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=masudrananayeem&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+<img src="https://streak-stats.demolab.com?user=masudrananayeem&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
 
 </div>
 
@@ -132,16 +134,19 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/masudrananayeem999/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img width="45px" src="https://img.shields.io/static/v1?label=&message=&color=0D1117&style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
+&nbsp;
 <a href="https://www.instagram.com/mrn.nayeem">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img width="45px" src="https://img.shields.io/static/v1?label=&message=&color=0D1117&style=for-the-badge&logo=instagram&logoColor=00D9FF"/>
 </a>
+&nbsp;
 <a href="https://www.facebook.com/mrn.nayeem.1">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img width="45px" src="https://img.shields.io/static/v1?label=&message=&color=0D1117&style=for-the-badge&logo=facebook&logoColor=00D9FF"/>
 </a>
+&nbsp;
 <a href="mailto:masudrananayeem86@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img width="45px" src="https://img.shields.io/static/v1?label=&message=&color=0D1117&style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
 </a>
 
 </p>

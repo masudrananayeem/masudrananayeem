@@ -16,14 +16,15 @@ I'm Masud Rana Nayeem, a Computer Science and Engineering student at Daffodil In
 I enjoy combining clean interfaces, useful functionality, and thoughtful engineering—from Bangladesh-focused digital products to deep learning research.
 
 
-🚀 What I'm Up To
-🎓 Studying:      Computer Science & Engineering
-🌏 Building:      BDpedia — a Bangladesh information & travel platform
-🩸 Developing:    BloodBridge — a blood donor discovery platform concept
-🧠 Researching:   Eggplant disease detection with deep learning
-⚛️ Exploring:     React, TypeScript, modern frontend patterns
-🔧 Learning:      Backend development, APIs, and database integration
-
+🌱 What I'm Exploring
+<div align="center">
+AREA	CURRENT INTEREST
+⚛️ Frontend	React, TypeScript, reusable UI patterns
+⚙️ Engineering	API design, backend fundamentals, clean architecture
+🧠 AI & ML	Deep learning, computer vision, model evaluation
+🎨 Design	Responsive interfaces, interaction, visual hierarchy
+🌍 Growth	Problem-solving, collaboration, continuous learning
+</div>
 ⚡ Tech Arsenal
 <div align="center">
 Frontend & UI
@@ -58,12 +59,26 @@ Tools & Platforms
 </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0D1117&height=3" width="100%" alt="Divider" /> </div>
 <div align="center">
-✦ IN THE FLOW
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="340" alt="Animated coding illustration" />
-Think → Build → Improve
-Exploring ideas, writing code, and making something better every day.
+✦ MY DEVELOPER PHILOSOPHY
+<div align="center"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="Animated coding illustration" />
+Think clearly. Build thoughtfully. Keep improving.
 
-</div>
+<table> <tr> <td align="center" width="33%">
+01 · EXPLORE
+
+Stay curious and learn beyond what I already know.
+
+</td> <td align="center" width="33%">
+02 · CREATE
+
+Turn ideas into useful, accessible digital experiences.
+
+</td> <td align="center" width="33%">
+03 · REFINE
+
+Improve the details, the code, and the result.
+
+</td> </tr> </table> </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0D1117&height=3" width="100%" alt="Divider" /> </div>
 📊 GitHub Stats & Streak
 <div align="center"> <a href="https://github.com/masudrananayeem"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=masudrananayeem&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" /> </a> <a href="https://github.com/masudrananayeem"> <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrananayeem&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" alt="Top languages" /> </a>
@@ -93,4 +108,3 @@ Curiosity fuels the ideas. Code brings them to life.
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:073B50,100:0D1117&height=130&section=footer" width="100%" alt="Footer banner" /> </div>
-⋮⋮⋮⋮⋮⋮⋮⋮

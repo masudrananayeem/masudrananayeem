@@ -57,40 +57,13 @@ Tools & Platforms
 
 </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0D1117&height=3" width="100%" alt="Divider" /> </div>
-🧩 Featured Projects
-<table> <tr> <td width="50%" valign="top">
-🌏 BDpedia
-Discover Bangladesh.
+<div align="center">
+✦ IN THE FLOW
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="340" alt="Animated coding illustration" />
+Think → Build → Improve
+Exploring ideas, writing code, and making something better every day.
 
-An informational and travel platform for exploring districts, destinations, history, culture, rivers, galleries, and travel resources.
-
-React TypeScript Tailwind CSS
-
-</td> <td width="50%" valign="top">
-🩸 BloodBridge
-Connecting donors and seekers.
-
-A blood donation platform concept focused on location-based donor discovery, emergency search, privacy-conscious contact access, and a 120-day donation cooldown.
-
-Web Development API Design Database Design
-
-</td> </tr> <tr> <td width="50%" valign="top">
-💻 Personal Portfolio
-A home for my work.
-
-A portfolio project presenting projects, skills, education, research, and professional information with a modern, responsive interface.
-
-React TypeScript Firebase Cloudflare
-
-</td> <td width="50%" valign="top">
-🍆 Eggplant Disease Detection
-Deep learning for agriculture.
-
-An ensemble-based hybrid multi-model deep learning research project for classifying five eggplant disease and leaf-condition categories.
-
-Python PyTorch Torchvision Computer Vision
-
-</td> </tr> </table> <div align="center"> <a href="https://github.com/masudrananayeem?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="Explore repositories" /> </a> </div>
+</div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0D1117&height=3" width="100%" alt="Divider" /> </div>
 📊 GitHub Stats & Streak
 <div align="center"> <a href="https://github.com/masudrananayeem"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=masudrananayeem&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" /> </a> <a href="https://github.com/masudrananayeem"> <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrananayeem&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" alt="Top languages" /> </a>
@@ -120,5 +93,4 @@ Curiosity fuels the ideas. Code brings them to life.
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:073B50,100:0D1117&height=130&section=footer" width="100%" alt="Footer banner" /> </div>
-⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-⋮⋮⋮⋮
+⋮⋮⋮⋮⋮⋮⋮⋮

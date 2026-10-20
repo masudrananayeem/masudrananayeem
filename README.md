@@ -1,26 +1,28 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" width="100%" alt="Masud Rana Nayeem — neon developer profile banner" />
+<img src="./assets/profile-banner.png" width="100%" alt="Masud Rana Nayeem — developer profile banner" />
+
+
 
 
 <a href="https://github.com/masudrananayeem">
   <img src="https://komarev.com/ghpvc/?username=masudrananayeem&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views" />
 </a>
 <a href="https://github.com/masudrananayeem?tab=followers">
-  <img src="https://img.shields.io/github/followers/masudrananayeem?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/masudrananayeem?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="GitHub followers" />
 </a>
 
 
 
 
 <a href="https://github.com/masudrananayeem">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub profile" />
 </a>
 <a href="https://www.linkedin.com/in/masudrananayeem999/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
 </a>
 <a href="mailto:masudrananayeem86@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" />
 </a>
 
 
@@ -67,6 +69,22 @@ AI / ML & Tools
 
 
 <img width="80%" src="https://streak-stats.demolab.com/?user=masudrananayeem&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+
+
+
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=masudrananayeem&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
+
+</div>
+
+🐍 Contribution Snake
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</picture>
 
 </div>
 

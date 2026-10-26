@@ -5,23 +5,12 @@
 
   <br/><br/>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=masudrananayeem&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
-    <a href="https://github.com/masudrananayeem?tab=followers">
-      <img src="https://img.shields.io/github/followers/masudrananayeem?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="GitHub followers" />
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/masudrananayeem">
-      <img src="https://img.shields.io/badge/GITHUB-PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/in/masudrananayeem999/">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
-    </a>
-    <a href="mailto:masudrananayeem86@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" />
-    </a>
+  <p align="center">
+    <a href="https://github.com/masudrananayeem"><img src="https://komarev.com/ghpvc/?username=masudrananayeem&label=VIEWS&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile views" /></a>&nbsp;
+    <a href="https://github.com/masudrananayeem?tab=followers"><img src="https://img.shields.io/github/followers/masudrananayeem?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="GitHub followers" /></a>&nbsp;
+    <a href="https://github.com/masudrananayeem"><img src="https://img.shields.io/badge/GITHUB-PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub profile" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/masudrananayeem999/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>&nbsp;
+    <a href="mailto:masudrananayeem86@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
   </p>
 
   <br/>
@@ -67,7 +56,7 @@ I'm **Masud Rana Nayeem**, a Computer Science and Engineering student at **Daffo
 <p align="center">
   <strong>Tools & Platforms</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cloudflare,vercel&theme=dark" alt="Development tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cloudflare,vercel&theme=dark" alt="Tools and platforms" />
 </p>
 
 ---
@@ -77,15 +66,17 @@ I'm **Masud Rana Nayeem**, a Computer Science and Engineering student at **Daffo
 <div align="center">
 
   <a href="https://github.com/masudrananayeem">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=masudrananayeem&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+    <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=masudrananayeem&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
   </a>
   <a href="https://github.com/masudrananayeem">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrananayeem&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" alt="Top programming languages" />
+    <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrananayeem&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" alt="Most used languages" />
   </a>
 
   <br/><br/>
 
-  <img width="90%" src="https://streak-stats.demolab.com/?user=masudrananayeem&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+  <a href="https://github.com/masudrananayeem">
+    <img width="80%" src="https://streak-stats.demolab.com/?user=masudrananayeem&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+  </a>
 
 </div>
 
@@ -95,7 +86,9 @@ I'm **Masud Rana Nayeem**, a Computer Science and Engineering student at **Daffo
 
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=masudrananayeem&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" alt="GitHub activity graph" />
+  <a href="https://github.com/masudrananayeem">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=masudrananayeem&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+  </a>
 
 </div>
 
@@ -147,7 +140,7 @@ I'm **Masud Rana Nayeem**, a Computer Science and Engineering student at **Daffo
   <p><i>Turning ideas into digital experiences — one line of code at a time.</i></p>
 
   <a href="mailto:masudrananayeem86@gmail.com">
-    <img src="https://img.shields.io/badge/LET'S%20CONNECT-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" alt="Let's connect" />
+    <img src="https://img.shields.io/badge/LET'S%20CONNECT-00D9FF?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0D1117" alt="Let's connect" />
   </a>
 
   <br/><br/>

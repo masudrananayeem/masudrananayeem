@@ -98,22 +98,6 @@ I'm **Masud Rana Nayeem**, a Computer Science and Engineering student at **Daffo
 
 ---
 
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-  </picture>
-
-</div>
-
----
-
 ## 🧠 How I Work
 
 <div align="center">
@@ -136,6 +120,23 @@ I'm **Masud Rana Nayeem**, a Computer Science and Engineering student at **Daffo
 </table>
 
 </div>
+
+---
+
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/masudrananayeem/masudrananayeem/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  </picture>
+
+</div>
+
 
 ---
 

@@ -80,19 +80,19 @@ I'm **Masud Rana Nayeem**, a Computer Science and Engineering student at **Daffo
 
 </div>
 
+
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-  <a href="https://github.com/masudrananayeem">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=masudrananayeem&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
-  </a>
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masudrananayeem&theme=react-dark)](https://github.com/masudrananayeem)
 
 </div>
 
 ---
+
 
 ## 🐍 Contribution Snake
 

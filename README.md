@@ -5,13 +5,13 @@
 
   <br/><br/>
 
-  <p align="center">
-    <a href="https://github.com/masudrananayeem"><img src="https://komarev.com/ghpvc/?username=masudrananayeem&label=VIEWS&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile views" /></a>&nbsp;
-    <a href="https://github.com/masudrananayeem?tab=followers"><img src="https://img.shields.io/github/followers/masudrananayeem?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="GitHub followers" /></a>&nbsp;
-    <a href="https://github.com/masudrananayeem"><img src="https://img.shields.io/badge/GITHUB-PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub profile" /></a>&nbsp;
-    <a href="https://www.linkedin.com/in/masudrananayeem999/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>&nbsp;
-    <a href="mailto:masudrananayeem86@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
-  </p>
+ <p align="center">
+  <a href="https://github.com/masudrananayeem"><img src="https://komarev.com/ghpvc/?username=masudrananayeem&label=VIEWS&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile views" /></a>&nbsp;
+  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/FACEBOOK-CONNECT-0D1117?style=for-the-badge&logo=facebook&logoColor=00D9FF" alt="Facebook" /></a>&nbsp;
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-0D1117?style=for-the-badge&logo=instagram&logoColor=00D9FF" alt="Instagram" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/masudrananayeem999/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:masudrananayeem86@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
+</p>
 
   <br/>
 

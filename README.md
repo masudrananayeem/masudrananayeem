@@ -69,14 +69,9 @@ I'm **Masud Rana Nayeem**, a Computer Science and Engineering student at **Daffo
     <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=masudrananayeem&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
   </a>
  
-<a href="https://github.com/masudrananayeem">
-  <img
-    width="49%"
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=masudrananayeem&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github&cache_seconds=86400"
-    alt="GitHub statistics"
-  />
-</a>
+ <a href="https://github.com/masudrananayeem">
+    <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrananayeem&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" alt="Most used languages" />
+  </a>
 
 
   <br/><br/>

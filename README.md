@@ -61,26 +61,42 @@ I'm **Masud Rana Nayeem**, a Computer Science and Engineering student at **Daffo
 
 ---
 
+
 ## 📊 GitHub Overview
 
 <div align="center">
 
+  <!-- GitHub Statistics -->
   <a href="https://github.com/masudrananayeem">
-    <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=masudrananayeem&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+    <img
+      width="49%"
+      height="180"
+      src="https://github-stats-extended.vercel.app/api?username=masudrananayeem&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github&cache_seconds=86400"
+      alt="GitHub statistics"
+    />
+  </a><!--
+  --><a href="https://github.com/masudrananayeem">
+    <img
+      width="49%"
+      height="180"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=masudrananayeem&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6&cache_seconds=86400"
+      alt="Most used languages"
+    />
   </a>
- 
- <a href="https://github.com/masudrananayeem">
-    <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrananayeem&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" alt="Most used languages" />
-  </a>
-
 
   <br/><br/>
 
+  <!-- GitHub Contribution Streak -->
   <a href="https://github.com/masudrananayeem">
-    <img width="80%" src="https://streak-stats.demolab.com/?user=masudrananayeem&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+    <img
+      width="80%"
+      src="https://streak-stats.demolab.com/?user=masudrananayeem&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E"
+      alt="GitHub contribution streak"
+    />
   </a>
 
 </div>
+
 
 
 

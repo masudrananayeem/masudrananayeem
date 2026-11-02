@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I'm **Masud Rana Nayeem**, a Computer Science and Engineering student at **Daffodil International University**. I enjoy building modern web experiences, learning new technologies, and exploring how software can solve real-world problems.
+I'm **Masud Rana Nayeem**, a **Computer Science and Engineering** student at **Daffodil International University**. I enjoy building modern web experiences, learning new technologies, and exploring how software can solve real-world problems.
 
 - ⚛️ Interested in React, TypeScript, and modern frontend engineering
 - 🎨 Focused on clean interfaces, responsive layouts, and user experience

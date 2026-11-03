@@ -87,15 +87,13 @@ I'm **Masud Rana Nayeem**, a **Computer Science and Engineering** student at **D
   <br/><br/>
 
 <!-- GitHub Contribution Streak -->
-<div align="center">
   <a href="https://github.com/masudrananayeem">
     <img
       width="80%"
-      src="https://streak-stats.demolab.com?user=masudrananayeem&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E"
-      alt="Masud Rana Nayeem's GitHub Contribution Streak"
+      src="https://streak-stats.demolab.com/?user=masudrananayeem&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E"
+      alt="GitHub contribution streak"
     />
   </a>
-</div>
 
 </div>
 
